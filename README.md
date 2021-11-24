@@ -1,4 +1,4 @@
-# miniprojeto1-agenda_de_contatos
+# projeto1-agenda_de_contatos
 
 - Primeiro projeto que realizei em Python. Ele consistia em:
 
