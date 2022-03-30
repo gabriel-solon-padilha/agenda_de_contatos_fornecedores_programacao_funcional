@@ -1,11 +1,11 @@
-# projeto1-agenda_de_contatos
+# Criação de agenda de contatos de fornecedores usando python com programação funcional
 
-- Primeiro projeto que realizei em Python. Ele consistia em:
+-----
 
-  - Receber um arquivo CSV (com os dados de nome, telefone, e-mail de fornecedores) desorganizado, já que não existia um padrão de ordenação para cada linha.
-  - Criar um interface em que permitisse ao usuário:
-  - Salvar esse arquivo de forma organizada (1a coluna como nome, 2a coluna como e-mail, 3a coluna como telefone) em um novo arquivo CSV, exigindo que ele fosse manipulado.
-  - Adicionar novos fornecedores a listagem
-  - Deletar fornecedores da listagem
+Esse foi meu primeiro projeto usando python e tinha como objetivo construir uma agenda de contatos com as seguintes funcionalidades para o usuário final:
+
+  - Carregar um arquivo CSV contento 3 campos(nome, telefone e e-mail de fornecedores). Esse arquivo pode ou não vir com as colunas organizadas. Caso elas não estejam o programa as organizará
+  - Adicionar os dados de contato de novos fornecedores
+  - Deletar fornecedores
   - Buscar fornecedores a partir do nome, e-mail ou telefone
   - Exibir a lista de fornecedor de forma organizada
